@@ -1,0 +1,24 @@
+
+table.GeneratedTable {
+  width: 769px;
+  background-color: #000000;
+border-collapse: separate;
+  border-width: 7px;
+  border-color: #bd5b00;
+  border-style: inset;
+  color: #ffffff;
+}
+
+table.GeneratedTable td, table.GeneratedTable th {
+  border-width: 7px;
+  border-color: #bd5b00;
+  border-style: inset;
+  padding: 1px;
+}
+
+table.GeneratedTable thead {
+  background-color: #ff9500;
+}
+.cursive {
+  font-family: cursive;
+}
